@@ -1,4 +1,4 @@
-# Pied Piper NotAHotDog
+# Pied Piper NotAHotDog [![StyleCI](https://github.styleci.io/repos/93877858/shield?branch=master&style=flat)](https://github.styleci.io/repos/93877858) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/TheDoctor0/NotAHotDog/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/TheDoctor0/NotAHotDog/?branch=master) [![License](https://img.shields.io/github/license/TheDoctor0/NotAHotDog.svg?color=sucess)](https://img.shields.io/github/license/TheDoctor0/NotAHotDog.svg?color=sucess&style=plastic)
 
 Image classification using TensorFlow (Inception v3) that labels any JPEG image as "hot dog" or "not a hot dog".
 
